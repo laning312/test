@@ -9,3 +9,5 @@ function regist() {
 function updatePwd() {
 	console.log('updatePwd');
 }
+
+console.log("ok");
