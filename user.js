@@ -5,3 +5,7 @@ function login() {
 function regist() {
 	console.log('regist');
 }
+
+function updatePwd() {
+	console.log('updatePwd');
+}
